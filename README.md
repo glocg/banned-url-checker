@@ -1,4 +1,4 @@
-# vanity-url-sniper-mfa-fixed
+# banned-url-checker
 Simple vanity url checker.
 
 # USAGE
